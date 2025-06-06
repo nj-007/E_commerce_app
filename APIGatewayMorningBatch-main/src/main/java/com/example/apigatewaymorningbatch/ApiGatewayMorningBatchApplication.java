@@ -5,8 +5,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class ApiGatewayMorningBatchApplication {
-//testgit
+//test_git_
     public static void main(String[] args) {
+
         SpringApplication.run(ApiGatewayMorningBatchApplication.class, args);
     }
 
